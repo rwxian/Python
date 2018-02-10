@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+下载此文件后,可以直接在PyCharm打开运行
